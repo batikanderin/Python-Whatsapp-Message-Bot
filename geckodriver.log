@@ -1,0 +1,107 @@
+1645750533212	geckodriver	INFO	Listening on 127.0.0.1:58225
+1645750536262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58226" "-no-remote" "-profile" "C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofilea40uyL"
+1645750536589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofilea40uyL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58226/devtools/browser/1f75796a-bb6f-47a4-afa9-ada6e84c37d2
+1645750538777	Marionette	INFO	Listening on port 58231
+1645750538969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645750543686	Marionette	INFO	Stopped listening on port 58231
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645751314657	geckodriver	INFO	Listening on 127.0.0.1:58501
+1645751317741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58502" "-no-remote" "-profile" "C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofileosFZie"
+1645751318035	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofileosFZie\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58502/devtools/browser/4e0cf380-e254-4e22-ad86-ed4826922506
+1645751320002	Marionette	INFO	Listening on port 58507
+1645751320407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1645751422697	geckodriver	INFO	Listening on 127.0.0.1:58609
+1645751425726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58610" "-no-remote" "-profile" "C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofilebTP1KF"
+1645751426005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofilebTP1KF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58610/devtools/browser/59d0e3ae-256b-41e5-b266-972619d811bd
+1645751427929	Marionette	INFO	Listening on port 58615
+1645751428393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1645751476164	geckodriver	INFO	Listening on 127.0.0.1:58678
+1645751479200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58679" "-no-remote" "-profile" "C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofileF2dTIH"
+1645751479485	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofileF2dTIH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58679/devtools/browser/7ccacc8c-82e6-438e-8e07-6d20cc7e14e2
+1645751481507	Marionette	INFO	Listening on port 58684
+1645751481854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1645751978543	geckodriver	INFO	Listening on 127.0.0.1:62428
+1645751981589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62429" "-no-remote" "-profile" "C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofile2W16UU"
+1645751981883	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofile2W16UU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62429/devtools/browser/bd83ee3a-cd0a-4447-8a29-89238aafea12
+1645751983872	Marionette	INFO	Listening on port 62434
+1645751984252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1645752103048	geckodriver	INFO	Listening on 127.0.0.1:62532
+1645752106093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62533" "-no-remote" "-profile" "C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofileTuOXyD"
+1645752106380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofileTuOXyD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62533/devtools/browser/20c586dd-a585-42d9-bba2-5e5f1b87db48
+1645752108258	Marionette	INFO	Listening on port 62538
+1645752108761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[Child 1424, MediaDecoderStateMachine #2] WARNING: 184c1a94820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 1424, MediaDecoderStateMachine #2] WARNING: 184c1a94820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 1424, MediaDecoderStateMachine #2] WARNING: 184c1a94820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645752300562	geckodriver	INFO	Listening on 127.0.0.1:62608
+1645752303614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62609" "-no-remote" "-profile" "C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofileh6cJIZ"
+1645752303911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofileh6cJIZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62609/devtools/browser/ef8e0468-5b76-4a95-8c45-282ad3d1aa67
+1645752305880	Marionette	INFO	Listening on port 62614
+1645752306294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1645752363606	geckodriver	INFO	Listening on 127.0.0.1:62671
+1645752366662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62672" "-no-remote" "-profile" "C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofilezoABIU"
+1645752366961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofilezoABIU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62672/devtools/browser/512f9859-5f64-40b0-8745-5c6404baeb48
+1645752368710	Marionette	INFO	Listening on port 62677
+1645752368836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1645752464004	geckodriver	INFO	Listening on 127.0.0.1:62760
+1645752467064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62761" "-no-remote" "-profile" "C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofileiDWq3M"
+1645752467405	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofileiDWq3M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62761/devtools/browser/697b39e8-2459-4a3f-ad2e-5ae1353bcdd7
+1645752469344	Marionette	INFO	Listening on port 62767
+1645752469757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+[Child 13112, MediaDecoderStateMachine #1] WARNING: 1eb79098c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645752546806	geckodriver	INFO	Listening on 127.0.0.1:62833
+1645752549841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62834" "-no-remote" "-profile" "C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofile3K1VHI"
+1645752550118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalem\\AppData\\Local\\Temp\\rust_mozprofile3K1VHI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62834/devtools/browser/b07c6d77-8c54-4b91-9696-588d99316ef7
+1645752551873	Marionette	INFO	Listening on port 62839
+1645752551904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
